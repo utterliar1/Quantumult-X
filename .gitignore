@@ -3,4 +3,4 @@
 /.Trash/
 *.ini
 !Images/*.png
-*.**
+**
