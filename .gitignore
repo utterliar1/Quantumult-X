@@ -1,6 +1,7 @@
 #图标缓存
 
 #迁移过来的git配置
+Scripts/.git/
 
 #个人配置备份
 /conf/
