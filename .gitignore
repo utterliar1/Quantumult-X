@@ -1,5 +1,5 @@
 #迁移过来的git配置
-Scripts/.git/
+Scripts/**/.git/
 
 #个人配置备份
 /conf/
