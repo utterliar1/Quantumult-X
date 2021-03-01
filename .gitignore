@@ -1,6 +1,15 @@
+#个人配置备份
 /conf/
+
+#个人持久化数据
 /Cookie/
+
+#圈X缓存
 /.Trash/
-*.ini
+
+#桌面配置文件
+*desktop.ini
+
+#图标缓存
 !Images/*.png
 **
